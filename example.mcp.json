@@ -1,0 +1,10 @@
+{
+  "mcp-resend":{
+    "command": "node",
+    "args": ["build/index.js"], 
+    "env": {
+      "RESEND_API_KEY": "your_api_key_here"
+    },
+    "working_directory": "/Users/username/tutos/mcp-resend"
+  }
+}
